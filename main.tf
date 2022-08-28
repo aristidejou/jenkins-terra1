@@ -1,5 +1,4 @@
 provider "aws"{
-profile ="aristide"
 region = "us-east-1"
 }
 
